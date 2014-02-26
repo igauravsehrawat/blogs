@@ -4,7 +4,7 @@
   <title><![CDATA[Blog hint]]></title>
   <link href="http://igauravsehrawat.github.io/blogs/atom.xml" rel="self"/>
   <link href="http://igauravsehrawat.github.io/blogs/"/>
-  <updated>2014-02-26T18:51:42+05:30</updated>
+  <updated>2014-02-26T19:07:51+05:30</updated>
   <id>http://igauravsehrawat.github.io/blogs/</id>
   <author>
     <name><![CDATA[Sehrawat]]></name>
@@ -18,7 +18,13 @@
     <link href="http://igauravsehrawat.github.io/blogs/blog/2014/02/26/just-make-simple-but-not-simpler/"/>
     <updated>2014-02-26T18:50:36+05:30</updated>
     <id>http://igauravsehrawat.github.io/blogs/blog/2014/02/26/just-make-simple-but-not-simpler</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>The above lines are of mighty Albert Einstein.
+Don&rsquo;t assume yourself the complexity of the problem . For example jeklly and octopress and static site generator . That&rsquo;s all .
+No need to make surprises for yourself.</p>
+
+<p>You put your content in markdown . preview it and generate the relevant content in html,css,js using jekyll. And ultimately do the rake deploy.</p>
+
+<p>For the next blog i will other theme and plugins.</p>
 ]]></content>
   </entry>
   
