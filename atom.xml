@@ -4,7 +4,7 @@
   <title><![CDATA[!Blog hint]]></title>
   <link href="http://igauravsehrawat.github.io/blogs/atom.xml" rel="self"/>
   <link href="http://igauravsehrawat.github.io/blogs/"/>
-  <updated>2014-02-28T00:00:00+05:30</updated>
+  <updated>2014-02-28T00:55:50+05:30</updated>
   <id>http://igauravsehrawat.github.io/blogs/</id>
   <author>
     <name><![CDATA[Gaurav Sehrawat]]></name>
@@ -18,11 +18,15 @@
     <link href="http://igauravsehrawat.github.io/blogs/blog/2014/02/27/communication-is-important/"/>
     <updated>2014-02-27T23:53:04+05:30</updated>
     <id>http://igauravsehrawat.github.io/blogs/blog/2014/02/27/communication-is-important</id>
-    <content type="html"><![CDATA[<p>Communication is very important . This is productivity part for any job. This shows
-* commitment
-* your understanding ,
-* progress towards goals,
-* problems in goals</p>
+    <content type="html"><![CDATA[<p>Communication is very important . This is productivity part for any job. This shows</p>
+
+<ul>
+<li>commitment</li>
+<li>your understanding ,</li>
+<li>progress towards goals,</li>
+<li>problems in goals</li>
+</ul>
+
 
 <p>It is acutally not the pair programming instead it&rsquo;s actually the communication while is best practice in developing and writing codes. If one is thinking that he/she will surprise the world just like that .</p>
 
