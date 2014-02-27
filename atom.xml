@@ -1,17 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Blog hint]]></title>
+  <title><![CDATA[!Blog hint]]></title>
   <link href="http://igauravsehrawat.github.io/blogs/atom.xml" rel="self"/>
   <link href="http://igauravsehrawat.github.io/blogs/"/>
-  <updated>2014-02-26T19:09:26+05:30</updated>
+  <updated>2014-02-28T00:00:00+05:30</updated>
   <id>http://igauravsehrawat.github.io/blogs/</id>
   <author>
-    <name><![CDATA[Sehrawat]]></name>
+    <name><![CDATA[Gaurav Sehrawat]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Communication Is Important]]></title>
+    <link href="http://igauravsehrawat.github.io/blogs/blog/2014/02/27/communication-is-important/"/>
+    <updated>2014-02-27T23:53:04+05:30</updated>
+    <id>http://igauravsehrawat.github.io/blogs/blog/2014/02/27/communication-is-important</id>
+    <content type="html"><![CDATA[<p>Communication is very important . This is productivity part for any job. This shows
+* commitment
+* your understanding ,
+* progress towards goals,
+* problems in goals</p>
+
+<p>It is acutally not the pair programming instead it&rsquo;s actually the communication while is best practice in developing and writing codes. If one is thinking that he/she will surprise the world just like that .</p>
+
+<blockquote><p>   You are at the wrong side .</p></blockquote>
+
+<p>Productivity comes when you don&rsquo;t even think about it .</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Just Make Simple but Not Simpler]]></title>
@@ -22,9 +41,9 @@
 Don&rsquo;t assume yourself the complexity of the problem . For example jeklly and octopress and static site generator . That&rsquo;s all .
 No need to make surprises for yourself.</p>
 
-<p>You put your content in markdown . preview it and generate the relevant content in html,css,js using jekyll. And ultimately do the rake deploy.</p>
+<p>You put your content in markdown , preview it and generate the relevant content in html,css,js using jekyll. And ultimately do the rake deploy.</p>
 
-<p>One should definetly agree and there is life beyond pressing buttons . Just code and deploy .</p>
+<p>One should definetly agree that there is life beyond pressing buttons . Just code and deploy .</p>
 
 <p>For the next blog i will other theme and plugins. And make it more presentable.</p>
 ]]></content>

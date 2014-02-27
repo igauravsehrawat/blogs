@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Not Fun in Circular Loop - Blog hint</title>
-  <meta name="author" content="Sehrawat">
+  <title>Not Fun in Circular Loop - !Blog hint</title>
+  <meta name="author" content="Gaurav Sehrawat">
 
   
-  <meta name="description" content=" Not Fun in Circular Loop Feb 26th, 2014 Feb 26th, 2014 Tweet Recent Posts Just Make Simple but Not Simpler Octopress Is Easy Piece ">
+  <meta name="description" content="Not Fun in Circular Loop Feb 26th, 2014 Feb 26th, 2014 Tweet Recent Posts Communication Is Important Just Make Simple but Not Simpler Octopress Is &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -21,7 +21,7 @@
   <link rel="canonical" href="http://igauravsehrawat.github.io/blogs/not-fun-in-circular-loop">
   <link href="/blogs/favicon.png" rel="icon">
   <link href="/blogs/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/blogs/atom.xml" rel="alternate" title="Blog hint" type="application/atom+xml">
+  <link href="/blogs/atom.xml" rel="alternate" title="!Blog hint" type="application/atom+xml">
   <script src="/blogs/javascripts/modernizr-2.0.js"></script>
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
   <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
@@ -36,7 +36,7 @@
 
 <body   >
   <header role="banner"><hgroup>
-  <h1><a href="/blogs/">Blog hint</a></h1>
+  <h1><a href="/blogs/">!Blog hint</a></h1>
   
     <h2>Ocassional blogs</h2>
   
@@ -127,6 +127,10 @@
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blogs/blog/2014/02/27/communication-is-important/">Communication Is Important</a>
+      </li>
+    
+      <li class="post">
         <a href="/blogs/blog/2014/02/26/just-make-simple-but-not-simpler/">Just Make Simple but Not Simpler</a>
       </li>
     
@@ -135,6 +139,35 @@
       </li>
     
   </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/igauravsehrawat">@igauravsehrawat</a> on GitHub
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'igauravsehrawat',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/blogs/javascripts/github.js" type="text/javascript"> </script>
 </section>
 
 
@@ -148,7 +181,7 @@
     </div>
   </div>
   <footer role="contentinfo"><p>
-  Copyright &copy; 2014 - Sehrawat -
+  Copyright &copy; 2014 - Gaurav Sehrawat -
   <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
 </p>
 
