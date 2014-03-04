@@ -4,7 +4,7 @@
   <title><![CDATA[!Blog hint]]></title>
   <link href="http://igauravsehrawat.github.io/blogs/atom.xml" rel="self"/>
   <link href="http://igauravsehrawat.github.io/blogs/"/>
-  <updated>2014-02-28T00:57:24+05:30</updated>
+  <updated>2014-03-04T13:47:31+05:30</updated>
   <id>http://igauravsehrawat.github.io/blogs/</id>
   <author>
     <name><![CDATA[Gaurav Sehrawat]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Theoretical vs Practial Knowledge]]></title>
+    <link href="http://igauravsehrawat.github.io/blogs/blog/2014/03/03/theoretical-vs-practial-knowledge/"/>
+    <updated>2014-03-03T18:30:24+05:30</updated>
+    <id>http://igauravsehrawat.github.io/blogs/blog/2014/03/03/theoretical-vs-practial-knowledge</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Communication Is Important]]></title>
