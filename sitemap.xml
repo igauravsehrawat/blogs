@@ -35,8 +35,14 @@
         <lastmod>2014-03-10T09:51:03+05:30</lastmod>
     </url>
     <url>
+        <loc>
+            http://igauravsehrawat.github.io/blogs/blog/2014/03/21/dealing-with-procrastination/
+        </loc>
+        <lastmod>2014-03-21T01:37:23+05:30</lastmod>
+    </url>
+    <url>
         <loc>http://igauravsehrawat.github.io/blogs/</loc>
-        <lastmod>2014-03-10T09:51:03+05:30</lastmod>
+        <lastmod>2014-03-21T01:37:23+05:30</lastmod>
     </url>
     <url>
         <loc>http://igauravsehrawat.github.io/blogs/not-fun-in-circular-loop/</loc>
@@ -48,6 +54,6 @@
     </url>
     <url>
         <loc>http://igauravsehrawat.github.io/blogs/blog/archives/</loc>
-        <lastmod>2014-03-10T09:51:03+05:30</lastmod>
+        <lastmod>2014-03-21T01:37:23+05:30</lastmod>
     </url>
 </urlset>
