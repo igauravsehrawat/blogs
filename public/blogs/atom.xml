@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Blog hint]]></title>
+  <link href="http://igauravsehrawat.github.io/blogs/atom.xml" rel="self"/>
+  <link href="http://igauravsehrawat.github.io/blogs/"/>
+  <updated>2014-07-26T22:18:16+05:30</updated>
+  <id>http://igauravsehrawat.github.io/blogs/</id>
+  <author>
+    <name><![CDATA[Sehrawat]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Octopress Is Easy Piece]]></title>
+    <link href="http://igauravsehrawat.github.io/blogs/blog/2014/02/26/octopress-is-easy-piece/"/>
+    <updated>2014-02-26T09:32:13+05:30</updated>
+    <id>http://igauravsehrawat.github.io/blogs/blog/2014/02/26/octopress-is-easy-piece</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
